@@ -3,18 +3,19 @@
 This is harvard university intorduction to computer science course.
 My soultion for the course including lecture code.
 
-.
- * [tree-md](./tree-md)
- * [dir2](./dir2)
-   * [file21.ext](./dir2/file21.ext)
-   * [file22.ext](./dir2/file22.ext)
-   * [file23.ext](./dir2/file23.ext)
- * [dir1](./dir1)
-   * [file11.ext](./dir1/file11.ext)
-   * [file12.ext](./dir1/file12.ext)
- * [file_in_root.ext](./file_in_root.ext)
+
+ * [CS50](https://github.com/hassanshahzadaheer/cs50x-2021)
+ * [ASCII](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/ASCII)
+ * [Week - 1](https://cs50.harvard.edu/x/2021/weeks/1/)
+   * [Lab-1]()
+   * [Water](https://github.com/hassanshahzadaheer/cs50x-2021/blob/master/week1/pset1/water.c)
+   * [Mario](https://github.com/hassanshahzadaheer/cs50x-2021/blob/master/week1/pset1/mario.c)
+   * [Greedy](https://github.com/hassanshahzadaheer/cs50x-2021/blob/master/week1/pset1/greedy.c)
+ * [Week - 2](./file_in_root.ext)
+  * [Lab-2]()
+   * [Readability]()
+   * [Caesar]()
  * [README.md](./README.md)
- * [dir3](./dir3)
 
 
 [more on problem set](https://cs50.harvard.edu/x/2021/)</br>
