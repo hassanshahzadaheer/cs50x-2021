@@ -1,4 +1,3 @@
 *.c~
-*.txt
 .DS_Store
 find $PATH_TO_REPOSITORY -type d ! -path "*.git*" -empty -exec cp .gitignore '{}'/ \;
