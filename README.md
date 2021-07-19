@@ -17,6 +17,7 @@ My soultion for the course including lecture code.
    * [Caesar](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-2/caesar)
  * [Week - 3: Algorithm](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-3)
    * [Lecture Code](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-3/lecture-code)
+   * [Practice Code](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-3/practice-code)
  * [README.md](./README.md)
 
 
