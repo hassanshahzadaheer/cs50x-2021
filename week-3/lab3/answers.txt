@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: As I run it on sorted array it takes too lest time to give output. In bubble sort when array is already sorted then we don't need to go inside to swap the values.
+
+sort2 uses: Merge
+
+How do you know?: When run on already sorted array it must go till the end to check the value is sorted or not.
+
+sort3 uses: Selection
+
+How do you know?: it work same as the bubble sort but on the sorted array it check the whole array which make it slower than the bubble sort.
