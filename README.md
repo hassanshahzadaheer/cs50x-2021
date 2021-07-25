@@ -19,6 +19,7 @@ My soultion for the course including lecture code.
    * [Lab-3](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-3/lab3)
    * [Lecture Code](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-3/lecture-code)
    * [Practice Code](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-3/practice-code)
+   * [problem set 3](https://github.com/hassanshahzadaheer/cs50x-2021/tree/master/week-3/pset3)
  * [README.md](./README.md)
 
 
